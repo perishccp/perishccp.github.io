@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>欢迎来到我的小屋</title>
+  
+  <subtitle>博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://perishccp.github.io/"/>
+  <updated>2020-02-06T02:26:23.228Z</updated>
+  <id>http://perishccp.github.io/</id>
+  
+  <author>
+    <name>freedom</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first</title>
+    <link href="http://perishccp.github.io/first/"/>
+    <id>http://perishccp.github.io/first/</id>
+    <published>2020-02-06T02:26:23.000Z</published>
+    <updated>2020-02-06T02:26:23.228Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://perishccp.github.io/hello-world/"/>
+    <id>http://perishccp.github.io/hello-world/</id>
+    <published>2020-02-06T01:54:41.469Z</published>
+    <updated>2020-02-06T01:54:41.469Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
