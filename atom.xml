@@ -5,9 +5,9 @@
   <subtitle>博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://perishccp.github.io/"/>
+  <link href="http://loveacg.xyz/"/>
   <updated>2020-02-06T02:26:23.228Z</updated>
-  <id>http://perishccp.github.io/</id>
+  <id>http://loveacg.xyz/</id>
   
   <author>
     <name>freedom</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>first</title>
-    <link href="http://perishccp.github.io/first/"/>
-    <id>http://perishccp.github.io/first/</id>
+    <link href="http://loveacg.xyz/first/"/>
+    <id>http://loveacg.xyz/first/</id>
     <published>2020-02-06T02:26:23.000Z</published>
     <updated>2020-02-06T02:26:23.228Z</updated>
     
@@ -45,8 +45,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://perishccp.github.io/hello-world/"/>
-    <id>http://perishccp.github.io/hello-world/</id>
+    <link href="http://loveacg.xyz/hello-world/"/>
+    <id>http://loveacg.xyz/hello-world/</id>
     <published>2020-02-06T01:54:41.469Z</published>
     <updated>2020-02-06T01:54:41.469Z</updated>
     
