@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://loveacg.xyz/"/>
-  <updated>2020-02-06T02:26:23.228Z</updated>
+  <updated>2020-02-12T09:03:19.642Z</updated>
   <id>http://loveacg.xyz/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>first</title>
-    <link href="http://loveacg.xyz/first/"/>
-    <id>http://loveacg.xyz/first/</id>
-    <published>2020-02-06T02:26:23.000Z</published>
-    <updated>2020-02-06T02:26:23.228Z</updated>
+    <title>markdown教程</title>
+    <link href="http://loveacg.xyz/markdown-jiao-cheng/"/>
+    <id>http://loveacg.xyz/markdown-jiao-cheng/</id>
+    <published>2020-02-09T12:14:28.000Z</published>
+    <updated>2020-02-12T09:03:19.642Z</updated>
     
     <summary type="html">
     
@@ -29,26 +29,29 @@
       
         
         
-          &lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       
+          &lt;h3 id=&quot;Markdown-简明语法手册&quot;&gt;&lt;a href=&quot;#Markdown-简明语法手册&quot; class=&quot;headerlink&quot; title=&quot;Markdown 简明语法手册&quot;&gt;&lt;/a&gt;Markdown 简明语法手册&lt;/h3&gt;&lt;hr&gt;
+&lt;h3
         
       
     
     </summary>
     
     
+      <category term="markdown" scheme="http://loveacg.xyz/categories/markdown/"/>
+    
+    
+      <category term="markdown" scheme="http://loveacg.xyz/tags/markdown/"/>
+    
+      <category term="技术杂烩" scheme="http://loveacg.xyz/tags/%E6%8A%80%E6%9C%AF%E6%9D%82%E7%83%A9/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://loveacg.xyz/hello-world/"/>
-    <id>http://loveacg.xyz/hello-world/</id>
-    <published>2020-02-06T01:54:41.469Z</published>
-    <updated>2020-02-06T01:54:41.469Z</updated>
+    <title>markdowm编辑器推荐</title>
+    <link href="http://loveacg.xyz/markdowm-bian-ji-qi-tui-jian/"/>
+    <id>http://loveacg.xyz/markdowm-bian-ji-qi-tui-jian/</id>
+    <published>2020-02-08T07:54:39.000Z</published>
+    <updated>2020-02-12T09:03:21.162Z</updated>
     
     <summary type="html">
     
@@ -56,13 +59,21 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;h3 id=&quot;Markdown软件推荐&quot;&gt;&lt;a href=&quot;#Markdown软件推荐&quot; class=&quot;headerlink&quot; title=&quot;Markdown软件推荐&quot;&gt;&lt;/a&gt;Markdown软件推荐&lt;/h3&gt;&lt;h4 id=&quot;1-typora（强烈推荐）&quot;&gt;&lt;a
         
       
     
     </summary>
     
     
+      <category term="markdown" scheme="http://loveacg.xyz/categories/markdown/"/>
+    
+      <category term="软件" scheme="http://loveacg.xyz/categories/markdown/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+      <category term="markdown" scheme="http://loveacg.xyz/tags/markdown/"/>
+    
+      <category term="技术杂烩" scheme="http://loveacg.xyz/tags/%E6%8A%80%E6%9C%AF%E6%9D%82%E7%83%A9/"/>
     
   </entry>
   
